@@ -1,1 +1,2 @@
 # cor-blimy
+The aim of this project is to produce an application for a forever Living business owner. Within the management pack contains instructions to the task of writing a list of who you know. This typically looks like a family tree style flow chart. I invisage the flow chart being made up of css style floating boxes of the potential customers information. The floating boxes will be positioned using rules setout within javascript.
